@@ -1,0 +1,18 @@
+只支持（*.mp3、*.ogg、*.wav）格式，文件名可随意。
+
+————————————————————
+advantage       处于优势时
+
+deck            编辑卡组时
+
+disadvantage    处于劣势
+
+duel            决斗时
+
+lose            平局或输时
+
+menu            主菜单
+
+siding          等待时？
+
+win             胜利时
